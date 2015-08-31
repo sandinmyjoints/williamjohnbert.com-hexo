@@ -3,7 +3,7 @@ layout: post
 title: "Review of Requests 1.0"
 date: 2013-01-14 17:22
 comments: true
-categories:
+tags:
 - writing
 - programming
 - cool stuff

@@ -3,7 +3,10 @@ layout: post
 title: "Allow CORS with localhost in Chrome"
 date: 2013-06-25 19:04
 comments: true
-categories: web-development chrome programming
+tags:
+- web-development
+- chrome
+- programming
 ---
 
 Today I spent some time wrestling with the notorious

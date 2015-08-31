@@ -5,11 +5,8 @@ layout: post
 slug: relatively-quick-and-easy-gensim-example-code
 title: (Relatively) quick and easy Gensim example code
 wordpress_id: 480
-categories:
-- Cool Stuff
-- Interests
-- Programming
 tags:
+- programming
 - example-code
 - gensim
 - lsa
@@ -24,7 +21,7 @@ Here's some sample code that shows the basic steps necessary to use gensim to cr
 Note that this code __will not work out of the box__. To train the models, you need to provide your own background corpus (a collection of documents, where a document can range from one sentence up to multiple pages of text). Choosing a good corpus is an art; generally, you want tens of thousands of documents that are representative of your problem domain. Like the gensim tutorial, this code also shows how to build a corpus from Wikipedia for experimentation, though note that doing so require a lot of computing time. You could potentially [save hours by installing accelerated BLAS on your system](http://williamjohnbert.com/2012/03/how-to-install-accelerated-blas-into-a-python-virtualenv/).
 
 <!-- more -->
-    
+
 {% codeblock Gensim sample code lang:python %}
 import logging, sys, pprint
 

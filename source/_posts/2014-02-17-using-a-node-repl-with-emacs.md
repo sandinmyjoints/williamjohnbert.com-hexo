@@ -3,7 +3,9 @@ layout: post
 title: "Using a Node repl in Emacs with nvm and npm"
 date: 2014-02-17 16:37
 comments: true
-categories: emacs node
+tags:
+- emacs
+- node
 ---
 
 Running a repl inside Emacs is often convenient for evaluating code, checking

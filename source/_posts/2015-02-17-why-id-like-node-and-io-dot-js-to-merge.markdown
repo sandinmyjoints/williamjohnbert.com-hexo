@@ -3,7 +3,9 @@ layout: post
 title: "Why I'd like Node and io.js to merge"
 date: 2015-02-17 18:46:00 -0800
 comments: true
-categories:
+tags:
+- node
+- iojs
 ---
 
 I made [nodegovernance.io](http://nodegovernance.io/) &mdash; which encourages Node

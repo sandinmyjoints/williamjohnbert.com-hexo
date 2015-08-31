@@ -6,9 +6,11 @@ slug: how-to-install-accelerated-blas-into-a-python-virtualenv
 title: How to install accelerated BLAS into a Python virtualenv
 wordpress_id: 426
 categories:
-- Web Development
-tags:
-- python virtualenv blas ubuntu
+- web-development
+- python
+- virtualenv
+- blas
+- ubuntu
 ---
 
 ## Background #

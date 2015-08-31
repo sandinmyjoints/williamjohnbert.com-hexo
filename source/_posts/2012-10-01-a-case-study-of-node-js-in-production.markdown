@@ -5,11 +5,11 @@ layout: post
 slug: a-case-study-of-node-js-in-production
 title: A Case Study of Node.js in Production
 wordpress_id: 496
-categories:
-- Programming
-- Web Development
 tags:
-- node nodejs
+- programming
+- web-development
+- node
+- nodejs
 ---
 
 I'm giving a talk about my experience [developing and deploying a Node.js web

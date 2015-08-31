@@ -5,10 +5,9 @@ layout: post
 slug: extjs-treestore-trouble-with-nested-nodes
 title: ExtJS TreeStore trouble with nested nodes
 wordpress_id: 455
-categories:
-- Programming
-- Web Development
 tags:
+- programming
+- web-development
 - javascript extjs workaround
 ---
 
@@ -54,6 +53,6 @@ only ones who've
 [this](http://www.sencha.com/forum/showthread.php?135285-TreeStore-Model-and-quot-id-quot-field)
 [problem](http://www.sencha.com/forum/showthread.php?196396-How-to-add-children-tree-nodes-dynamically).
 
-My quick fix was to write a `stringify_id()` function to wrap ids passed to the TreeStore with a prefix unique to each type, so the id of Task id=1 becomes "task-1". `destringify_id()` unwraps the ids that come back through the proxy. 
+My quick fix was to write a `stringify_id()` function to wrap ids passed to the TreeStore with a prefix unique to each type, so the id of Task id=1 becomes "task-1". `destringify_id()` unwraps the ids that come back through the proxy.
 
 TreeStore's [docs](http://docs.sencha.com/ext-js/4-0/#!/api/Ext.data.TreeStore) do not mention this restriction, as far as I can tell. Maybe if you purchase Ext JS, you get better docs, I'm not sure. We may be doing just that, so I could have a chance to find out. One of the complaints you sometimes hear about open source is that the docs aren't that great, so I'm curious to see how a for-profit company's docs stack up against the documentation culture of the communities I'm most familiar with (Python and Django), which tend to be pretty solid.

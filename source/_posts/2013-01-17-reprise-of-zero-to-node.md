@@ -3,11 +3,11 @@ layout: post
 title: "Zero to Node, Again"
 date: 2013-01-17 08:09
 comments: true
-categories:
-- Programming
-- Web Development
 tags:
-- node nodejs
+- programming
+- web-development
+- node
+- nodejs
 ---
 
 At [NodeDC's January meetup](http://www.meetup.com/node-dc/events/98796672/),

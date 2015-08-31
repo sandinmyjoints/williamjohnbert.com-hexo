@@ -3,7 +3,11 @@ layout: post
 title: "How legit HTTP (with an async io assist) massacred my Node workers"
 date: 2013-09-10 18:55
 comments: true
-categories: nodejs http cluster express
+tags:
+- nodejs
+- http
+- cluster
+- express
 ---
 
 

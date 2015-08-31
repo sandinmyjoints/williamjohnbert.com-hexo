@@ -5,11 +5,8 @@ layout: post
 slug: interview-with-radim-rehurek-creator-of-gensim
 title: Interview with Radim Rehurek, creator of gensim
 wordpress_id: 465
-categories:
-- Cool Stuff
-- Interests
-- Programming
 tags:
+- programming
 - gensim
 - lda
 - lsi

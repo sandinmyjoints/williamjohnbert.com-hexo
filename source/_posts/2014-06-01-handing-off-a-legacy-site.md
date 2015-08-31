@@ -3,7 +3,11 @@ layout: post
 title: "Using Github Pages to hand off a legacy site and make everyone happier"
 date: 2014-04-30 18:52
 comments: true
-categories: git github legacy django
+tags:
+- git
+- github
+- legacy
+- django
 ---
 
 Here's how I turned over maintenance of a legacy site -- built as a one-off

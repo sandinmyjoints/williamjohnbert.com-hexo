@@ -5,14 +5,15 @@ layout: post
 slug: fake-bio-for-steve
 title: Fake bio for Steve
 wordpress_id: 444
-categories:
-- Cool Stuff
-- Interests
 tags:
-- 826dc lowercase plagiarism wikipedia writing
+- 826dc
+- lowercase
+- plagiarism
+- wikipedia
+- writing
 ---
 
-My good friend Steve has hosted [the lowercase](http://826dc.org/?p=3336), the monthly reading series associated with [826DC](http://826dc.org/), for three years. Steve has a charming habit of introducing his readers with made-up bios, so in his honor, I asked some lowercase regulars to write fake bios of him and share them at the third anniversary reading on April 4. The results were highly entertaining; thanks to everyone who wrote one! 
+My good friend Steve has hosted [the lowercase](http://826dc.org/?p=3336), the monthly reading series associated with [826DC](http://826dc.org/), for three years. Steve has a charming habit of introducing his readers with made-up bios, so in his honor, I asked some lowercase regulars to write fake bios of him and share them at the third anniversary reading on April 4. The results were highly entertaining; thanks to everyone who wrote one!
 
 Here's mine:
 

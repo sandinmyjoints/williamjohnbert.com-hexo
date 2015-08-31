@@ -3,7 +3,9 @@ layout: post
 title: "Towards 100% Uptime with Node"
 date: 2014-02-17 16:18
 comments: true
-categories:  node talks
+tags:
+- node
+- talks
 ---
 
 In December, I gave a talk at

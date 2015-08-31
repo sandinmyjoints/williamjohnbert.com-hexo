@@ -3,7 +3,10 @@ layout: post
 title: "Emacs cl-lib madness"
 date: 2013-05-27 15:52
 comments: true
-categories: programming emacs emacs-lisp
+tags:
+- programming
+- emacs
+- emacs-lisp
 ---
 
 Emacs 24.3 renamed the Common Lisp emulation package from `cl` to `cl-lib`. The

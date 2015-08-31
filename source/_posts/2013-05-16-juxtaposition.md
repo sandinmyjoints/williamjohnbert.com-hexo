@@ -3,7 +3,9 @@ layout: post
 title: "Juxtaposition"
 date: 2013-05-16 19:02
 comments: true
-categories:
+tags:
+- unicorn
+- unix
 ---
 
 A few days ago, I happened by chance to read these two articles one after the other:
