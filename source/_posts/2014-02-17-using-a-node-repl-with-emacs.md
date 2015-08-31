@@ -26,6 +26,8 @@ directory to `path/to/projectB`? That's clumsy and annoying.
 
 Here's how I answered these questions:
 
+<!-- more -->
+
 [nvm.el](https://github.com/rejeep/nvm.el) gives you `nvm-use` to activate a
    version of Node within Emacs. It's basically a nice wrapper around setting
    the enviroment variables `NVM_BIN` and `NVM_PATH` and adding the path to the

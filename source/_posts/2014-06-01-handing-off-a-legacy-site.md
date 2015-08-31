@@ -12,6 +12,8 @@ cofounder, with only a few hours of work. Best of all, it now uses evergreen
 technology that will make it easy for her to update for years to come, and
 everyone is happy with the outcome.
 
+<!-- more -->
+
 ### The problem
 
 I created [Call and Response](http://www.callandresponsedc.org) when my friend

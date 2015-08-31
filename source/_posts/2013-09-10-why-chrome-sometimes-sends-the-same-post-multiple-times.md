@@ -25,6 +25,8 @@ the rest immediately followed.
 Time to get to the bottom of this. A Node stud like me can figure it out. No
 sweat. Right?
 
+<!-- more -->
+
 For a sanity check, I went to Chrome and Firefox's network inspectors. Only one
 POST, the bad request that triggered the exception. Everything else looks
 normal. Sanity: verified.
