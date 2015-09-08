@@ -80,3 +80,8 @@ marked:
   smartypants: false
 
 disqus_shortname: wjb
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
