@@ -32,6 +32,12 @@ It explained how to keep Node apps running all the time by sensibly handling
 uncaught exceptions, using domains to contain errors, managing processes with
 the cluster module, and gracefully terminating TCP connections when necessary.
 
+## The Little Schemer
+
+In the spring of 2013, I read the classic functional programming book
+[The Little Schemer](http://www.goodreads.com/book/show/548914.The_Little_Schemer).
+[I did the exercises](https://github.com/sandinmyjoints/the-little-schemer) and
+learned a lot from them -- highly recommended!
 
 ## Zero to Node ##
 
