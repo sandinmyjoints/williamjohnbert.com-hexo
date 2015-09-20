@@ -18,6 +18,7 @@ ad quality plaform, to life.
 
 I divide the rest of my time between working on my own
 [projects, both software and otherwise](http://williambert.online/projects);
-hiking and traveling; and thoroughly enjoying the company of my wife, Kara. I
-also write -- both [blog posts](http://williambert.online) and
+hiking and backpacking, especially in the Sierra Nevada mountains; and
+thoroughly enjoying the company of my wife, Kara. I also write -- both
+[blog posts](http://williambert.online) and
 [fiction and essays](http://williamjohnbert.com/publications/) now and then.
