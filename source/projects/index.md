@@ -110,3 +110,10 @@ and _[The Way We See It](http://826dc.org/?p=512)_. Most recently, in November
 served as Secretary of the Board up through February 2011.
 
 [![Museum of Unnatural History Species Identification Flowchart](/images/826dc_flowchart_11.jpg)](/images/826dc_flowchart_11.jpg)
+
+## Yesterdaze ##
+
+The Beatles' Yesterday is one of the most covered songs in history. In college,
+I mashed up a bunch of the covers to produce this agglomeration.
+
+<iframe style="display: block; margin: 0 auto 20px;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/oWJxSJ-DTtc?rel=0" frameborder="0" allowfullscreen></iframe>
