@@ -2,9 +2,13 @@ comments: true
 date: 2010-11-09 11:59:43
 layout: page
 slug: projects
-title: Projects
+title: Projects, Talks, Etc.
 wordpress_id: 15
 ---
+
+## ema-stream ##
+
+A Node module and command line tool to calculate an [exponential moving average from a stream](https://github.com/sandinmyjoints/ema-stream).
 
 ## If everyone would ##
 
