@@ -13,7 +13,18 @@ A Node module and command line tool to calculate an [exponential moving average 
 ## [If everyone would](https://twitter.com/ifeveryonewould) ##
 
 A Twitter bot that retweets tweets containing the phrase "if everyone would".
-[Source](https://github.com/sandinmyjoints/ifeveryonewould).
+[Source](https://github.com/sandinmyjoints/ifeveryonewould). Openshift for
+hosting. Firebase for persistance.
+
+## [What's my UA?](http://www.whatsmyua.info/) ##
+
+See what your user-agent detection library really thinks! Results from three top
+ua detection libs:
+* https://github.com/tobie/ua-parser
+* https://github.com/faisalman/ua-parser-js
+* https://github.com/bestiejs/platform.js/
+
+Hosted on Openshift.
 
 ## [Node on the Road](https://www.joyent.com/noderoad/cities/washington-dc-8-20-2014) ##
 
