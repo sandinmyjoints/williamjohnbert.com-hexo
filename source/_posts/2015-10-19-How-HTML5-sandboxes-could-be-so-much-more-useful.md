@@ -36,6 +36,8 @@ for me.
 Ideally, I could set sandboxing to apply to the cross-origin iframes I know *are
 going to be created* on my page.
 
+<!-- more -->
+
 I'd love to be able to say: for all cross-origin iframes, use sandboxing, with
 the following rules:
 * no top navigation
