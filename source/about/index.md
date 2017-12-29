@@ -4,7 +4,6 @@ date: 2010-09-19 11:47:55
 comments: true
 layout: page
 slug: about
-title: About
 wordpress_id: 2
 ---
 
@@ -20,6 +19,6 @@ ad quality plaform, to life.
 I divide the rest of my time between working on my own
 [projects, both software and otherwise](http://williambert.online/projects);
 hiking and backpacking, especially in the Sierra Nevada mountains; and
-thoroughly enjoying the company of my wife, Kara. I also write -- both
+thoroughly enjoying the company of my wife and daughter. I also write -- both
 [blog posts](http://williambert.online) and
 [fiction and essays](http://williamjohnbert.com/publications/) now and then.
