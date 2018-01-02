@@ -175,17 +175,17 @@ $ docker-clean -n
 Now that unneeded images and containers are gone, we want to reclaim the disk
 space they occupied for use by the host and/or the VM.
 
-Docker for Mac (after versioni 1.12) is supposed to run TRIM every 15 minutes
+Docker for Mac (after version 1.12) is supposed to run TRIM every 15 minutes
 using a cron job. If you want to manually trigger a TRIM:
 
     $ docker run --rm -it --privileged --pid=host walkerlee/nsenter -t 1 -m -u -i -n fstrim /var
 
 The first time I tried this, nothing happened until I restarted Docker. After
-restarting, hyperkit started went to max cpu for hours. While it was running,
-docker commands hung. Once it finished, I had to restart Docker (not machine)
-again. It had freed up 30 GB.
+restarting, hyperkit went to max cpu for hours. While it was running, docker
+commands hung. Once it finished, I had to restart Docker again. It had freed up
+30 GB!
 
-Since then, it has worked (freeing spaces on the VM and on the host) without a
+Since then, it has worked (freeing space on the VM and on the host) without a
 restart.
 
 ##### References:
