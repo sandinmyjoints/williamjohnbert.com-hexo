@@ -8,10 +8,10 @@ wordpress_id: 2
 ---
 
 By day, I get to work with incredibly smart, talented, and all-around great
-people at [Curiosity Media](http://www.curiositymedia.com), where I'm a Senior
-Software Engineer and the team lead for
-[SpanishDict.com](http://www.spanishdict.com) (también
-[en español](http://www.spanishdict.com/traductor/)!), the world's largest
+people at [Curiosity Media](http://www.curiositymedia.com), where I'm a
+Principal Software Engineer and the team lead for
+[SpanishDict.com](http://www.spanishdict.com) (también [en
+español](http://www.spanishdict.com/traductor/)!), the world's largest
 Spanish-English language learning and reference website. I also led the effort
 to prototype and bring our newest product, [PubNation](http://pubnation.com), an
 ad quality plaform, to life.
