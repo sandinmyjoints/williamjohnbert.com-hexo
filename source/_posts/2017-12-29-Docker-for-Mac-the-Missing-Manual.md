@@ -227,6 +227,34 @@ If you simply attach screen again, the terminal text will be garbled.
 ##### References:
 - https://gist.github.com/BretFisher/5e1a0c7bcca4c735e716abf62afad389s
 
+## Problems with tar
+
+macOS uses GNU tar. Inside a Linux-based image, the tar that's available is
+likely GNU tar. If you encounter errors like "Directory renamed before its
+status could be extracted", they might stem from running GNU tar inside an image
+on a tarball created by BSD tar (outside of the image).
+
+Try either:
+
+1. Install GNU on your host and use it:
+
+``` shell
+brew install gnu-tar
+gtar ...
+```
+
+2. Or use BSD tar inside the image by installing it in your Dockerfile:
+
+```
+FROM ...
+
+apt-get update -qq
+apt-get install -qqy --no-install-recommends bsdtar
+
+RUN bsdtar ...
+```
+
+
 ## More!
 
 Got more tips? This is a living document. Please leave a comment below.
